@@ -1,3 +1,8 @@
+# Hello, World
+
+This should [Open in Yellowbrick](web+ymopenfile:../playground/sample.sql), click me!
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kwesterfeld2/ym-samples/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
